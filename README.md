@@ -2,7 +2,7 @@
 
 
 # Build Security Incident Response for GDPR Data Protection [Video]
-This is the code repository for Build Security Incident Response for GDPR Data Protection [Video](https://www.packtpub.com/business/build-security-incident-response-gdpr-data-protection-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [Build Security Incident Response for GDPR Data Protection [Video]](https://www.packtpub.com/business/build-security-incident-response-gdpr-data-protection-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 In this course you will learn what incident response is and how it relates to GDPR, and if you are used to the author-led style, you will do it from 3 perspectives: theory, processes and technology. The course is a complete A to Z, so we will cover everything that you need to know. In this way, we will first understand incident response challenges, difference between a NOC and a SOC and how the latest can help in defining the incident response process. We will follow up with GDPR relation and the impact of GDPR to incident response for any organization. We will learn about methodologies, frameworks, playbooks, we will draft 2 procedures and we will see how technology can help us in the roadmap. And all of these are separate resources that you will get! In the end, the author will give an incredible collection of incident response free tools and resources that the author has built during time.
 
